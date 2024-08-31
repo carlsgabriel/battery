@@ -123,8 +123,8 @@ div[data-key="keyc"] {
 }
 
 .key.active {
-    border: 2px solid #FF0;
-    color: #FF0;
+    border: 5px solid red;
+    color: red;
 }
 
 .composer {
