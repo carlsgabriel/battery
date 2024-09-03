@@ -166,4 +166,7 @@ div[data-key="keyc"] {
         width: 300px;
         height: 300px;
     }
+    .keys {
+        margin-top: -50px;
+    }
 }
