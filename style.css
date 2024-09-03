@@ -161,7 +161,7 @@ div[data-key="keyc"] {
     background-color: rgba(0, 0, 0, 0.2);
 }
 
-@media(max-width: 375px){
+@media(max-width: 500px){
     .img-top {
         width: 300px;
         height: 300px;
